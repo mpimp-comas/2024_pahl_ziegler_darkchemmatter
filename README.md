@@ -1,6 +1,6 @@
  # Illuminating Dark Chemical Matter using the Cell Painting Assay
 
-Axel Pahl, Jie Liu, Sohan Patil, Soheila Rezaei Adariani, Beate Schölermann, Jens Warmers, Jana Bonowski, Yasemin Akbulut, Carina Seitz, Sonja Sievers, Slava Ziegler*, Herbert Waldmann*
+Axel Pahl, Jie Liu, Sohan Patil, Soheila Rezaei Adariani, Beate Schölermann, Jens Warmers, Jana Bonowski, Sandra Koska. Yasemin Akbulut, Carina Seitz, Sonja Sievers, Slava Ziegler*, Herbert Waldmann*
 
 This repository contains the datasets for the manuscript titled above.
 
